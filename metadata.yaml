@@ -1,0 +1,42 @@
+_repo: Wild-Adventures-round-the-PoleThe-Cruise-of-the--Snowbird--Crew-in-the--Arrandoon-_38296
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, W. Gordon (William Gordon)
+    - Stables, William Gordon
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Mountains -- Juvenile fiction'
+- !lcsh 'Mutiny -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Whales -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: "Wild Adventures round the Pole\r\nOr, The Cruise of the \"Snowbird\" Crew\
+  \ in the \"Arrandoon\""
+url: http://www.gutenberg.org/ebooks/38296
